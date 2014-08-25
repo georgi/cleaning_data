@@ -14,7 +14,7 @@ Contains type of activity encoded as string:
 
 ### subject
 
-An identifier of the subject who carried out the experiment encoded as integer.
+An identifier of the subject who carried out the experiment encoded as integer between 1 and 30.
 
 ### variable
 
