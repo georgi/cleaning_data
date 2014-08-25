@@ -1,9 +1,8 @@
-Project Course
-==============
+Getting and Cleaning Data Course Project
+========================================
 
 The script reads all relevant tables separately, merges them, adjusts the naming of the variables,
 reshapes the data and finally writes out a tidy data set.
-
 
 ### Source tables
 
